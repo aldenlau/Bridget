@@ -7,7 +7,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from discord.ext import commands
 
 
-token = 'NzIyNjU0NTE2OTA1NzcxMDA5.XvEKtg.9N8PpTo65GbHdcPoi_7U0gm1i4I'
+token = 'INSERT TOKEN HERE'
 client = discord.Client()
 
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
